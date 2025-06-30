@@ -48,6 +48,7 @@ def id_search(desired_url_id : str):
                 
                 else:
                     ids_text : str = "ID(s) Tested : {}{}{}".format(colors.RED, args_search, colors.RESET)
+                    time.sleep(1)
 
                 print(ids_text)
                     
