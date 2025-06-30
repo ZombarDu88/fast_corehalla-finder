@@ -5,7 +5,7 @@ This script allows not to sleep when doing a search on corehalla
 
 2 -- install python : https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe
 
-3 -- extract a folder
+3 -- extract the folder
 
 4 -- enjoy =)
 
