@@ -8,3 +8,5 @@ This script allows not to sleep when doing a search on corehalla
 3 -- extract a folder
 
 4 -- enjoy =)
+
+demo vid : https://youtu.be/aGS0677dS-s
