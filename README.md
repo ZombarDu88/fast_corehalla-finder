@@ -3,7 +3,7 @@ This script allows not to sleep when doing a search on corehalla
 
 1 -- install the script releases package https://github.com/ZombarDu88/fast_corehalla-finder/releases
 
-2 -- install python : https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe
+2 -- install python : https://www.python.org/downloads/
 
 3 -- extract the folder
 
