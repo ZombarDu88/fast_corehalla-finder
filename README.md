@@ -9,4 +9,4 @@ This script allows not to sleep when doing a search on corehalla
 
 4 -- enjoy =)
 
-demo vid : https://youtu.be/aGS0677dS-s
+demo vid : https://youtu.be/-96upvM_JG8
