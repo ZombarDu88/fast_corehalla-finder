@@ -11,4 +11,4 @@ This script allows not to sleep when doing a search on corehalla
 
 demo vid : https://youtu.be/-96upvM_JG8
 
-if you have any issu or question my discord is : nonodu88
+if you have any issues or questions my discord is : nonodu88
