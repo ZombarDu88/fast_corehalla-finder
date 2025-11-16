@@ -5,7 +5,7 @@ This script allows not to sleep when doing a search on corehalla
 
 2 -- install python : https://www.python.org/downloads/
 
-3 -- extract the folder
+3 -- extract the folder `Fast corehalla player searcher`
 
 4 -- enjoy =)
 
